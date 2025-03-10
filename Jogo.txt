@@ -8,7 +8,7 @@
         Seguda rodada: Victor = X e Yara = 0
         vencedor:
 
-            _X_|__|__
+            _X_|__|_X_
             __|_X_|_0_ 
             __|__|_0_                                                        
                                         
