@@ -13,8 +13,8 @@
             _0_|__|_0_                                                        
                                         
         Última rodada: Gabriela = 0 e Victor = X                                                                                          
-        Vencedor:
+        Vencedor: Velha 
 
             _0_|_X_|_0_
             _X_|_X_|_0_
-            _0_|__|_X_
+            _0_|_0_|_X_
