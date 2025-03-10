@@ -1,8 +1,8 @@
         Primeira rodada: Eduardo = X e Gabriela = 0
-        Vencedor:
+        Vencedor: Gabriela 
 
             _0_|__|_x_
-            __|__|__
+            __|_0_|__
             _X_|__|_0_
 
         Seguda rodada: Victor e Yara
