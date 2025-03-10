@@ -1,18 +1,18 @@
-        Primeira rodada: Eduardo = X e Gabriela = 0
+        Primeira Rodada: Eduardo = X e Gabriela = 0
         Vencedor: Gabriela 
 
             _0_|__|_x_
             __|_0_|__
             _X_|__|_0_
 
-        Seguda rodada: Victor = X e Yara = 0
+        Segunda Rodada: Victor = X e Yara = 0
         vencedor: Victor
 
             _X_|_X_|_X_
             __|_X_|_0_ 
             _0_|__|_0_                                                        
                                         
-        Última rodada: Gabriela = 0 e Victor = X                                                                                          
+        Última Rodada: Gabriela = 0 e Victor = X                                                                                          
         Vencedor: Velha 
 
             _0_|_X_|_0_
