@@ -4,13 +4,13 @@ Trabalho/Projeto de DevOps - Jogo
 Ferramentas:
 *GitHub
 
-Nome do Grupo: Grupo revelação
+Nome do Grupo: Grupo Revelação
 
 Participante:
-  *Yara Lima
-  *Gabriela Araújo
-  *Eduardo Nunes
-  *Vitir Alexandre
+  *Yara Lima _ 2400790
+  *Gabriela Araújo _ 2400644
+  *Eduardo Nunes _ 2401234
+  *Vitir Alexandre _ 2400690
 
 Tema: Torneio de Jogo da Velha
 
