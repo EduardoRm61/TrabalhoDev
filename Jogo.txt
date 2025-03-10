@@ -1,7 +1,7 @@
-        Primeira rodada: Eduardo e Gabriela 
+        Primeira rodada: Eduardo = X e Gabriela = 0
         Vencedor:
 
-            __|__|__
+            _0_|__|__
             __|__|__
             __|__|__
 
