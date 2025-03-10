@@ -5,10 +5,10 @@
             __|_0_|__
             _X_|__|_0_
 
-        Seguda rodada: Victor e Yara
+        Seguda rodada: Victor = X e Yara = 0
         vencedor:
 
-            __|__|__
+            _X_|__|__
             __|__|__ 
             __|__|__                                                        
                                         
