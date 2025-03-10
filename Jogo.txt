@@ -3,7 +3,7 @@
 
             _0_|__|__
             __|__|__
-            _X_|__|__
+            _X_|__|_0_
 
         Seguda rodada: Victor e Yara
         vencedor:
